@@ -7,3 +7,9 @@
 <p align="center">
     <strong>fantastic-waddle-MD</strong> is a WhatsApp bot made to automate tasks on WhatsApp.
 </p>
+
+<p align="center">
+<img src=https://i.imgur.com/6Xegkag.jpegtoken=GHSAT0AAAAAACWTLQTAKIO46WHT6Q5MQYN4ZXBDOZQ" />
+</p>
+<h2>fantastic-waddle</h2></h2>
+<h3 align="center">A Simple WhatsApp Bot</h3>
